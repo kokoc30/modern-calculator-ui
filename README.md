@@ -1,4 +1,4 @@
-# modern-calculator-ui
+# Modern-calculator-ui
 # Web Calculator
 
 A modern web-based calculator built with HTML, CSS and JavaScript.
@@ -10,10 +10,10 @@ A modern web-based calculator built with HTML, CSS and JavaScript.
 - Sound effects
 
 ## How to Use
-Just open `index.html` in your browser. No installation required.
+Just open the GitHub link in your browser. No installation required.
 
 ## Screenshots
 _Add screenshots here if you like_
 
 ## Author
-Your Name - [@yourgithub](https://github.com/yourgithub)
+Koko Jamgotchian - [@yourgithub]([https://github.com/yourgithub](https://github.com/kokoc30))
