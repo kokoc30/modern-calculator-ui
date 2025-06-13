@@ -1,4 +1,4 @@
- Modern-calculator-ui
+# Modern-calculator-ui
 # Web Calculator
 
 A modern web-based calculator built with HTML, CSS and JavaScript.
