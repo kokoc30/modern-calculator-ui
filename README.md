@@ -13,7 +13,8 @@ A modern web-based calculator built with HTML, CSS and JavaScript.
 Just open the GitHub link in your browser. No installation required.
 
 ## Screenshots
-_Add screenshots here if you like_
+![Screenshot 2025-06-12 224322](https://github.com/user-attachments/assets/3040a130-998a-47eb-ab2c-56d11b535a20)
+
 
 ## Author
 Koko Jamgotchian - [@kokoc30](https://github.com/kokoc30)
