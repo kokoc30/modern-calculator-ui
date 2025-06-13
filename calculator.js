@@ -229,10 +229,10 @@ function inputDecimal() {
     updateDisplay();
 }
 
-function clear() {
+function clearAll(evt) {
     playClickSound();
-    animateButton(event.target);
-    
+    animateButton(evt.target);
+
     display = '0';
     previousValue = null;
     operation = null;
@@ -241,6 +241,7 @@ function clear() {
     currentExpression = '';
     updateDisplay();
 }
+
 
 function performOperation(nextOperation) {
     playClickSound();
