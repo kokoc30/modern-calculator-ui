@@ -10,7 +10,7 @@ A modern web-based calculator built with HTML, CSS and JavaScript.
 - Sound effects
 
 ## How to Use
-Just open the GitHub link in your browser. No installation required.
+Just open the GitHub link ' https://kokoc30.github.io/modern-calculator-ui/ ' in your browser. No installation required.
 
 ## Screenshots
 ![Screenshot 2025-06-12 224322](https://github.com/user-attachments/assets/3040a130-998a-47eb-ab2c-56d11b535a20)
