@@ -147,7 +147,7 @@ function generateButtons() {
             <button class="btn scientific-advanced" onclick="performScientificOperation('√')">√</button>
             <button class="btn scientific-advanced" onclick="performScientificOperation('x²')">x²</button>
             <button class="btn" onclick="inputParenthesis()">( )</button>
-            <button class="btn scientific-clear" onclick="clear(event)">C</button>
+            <button class="btn scientific-clear" onclick="clearAll(event)">C</button>
             
             <button class="btn" onclick="inputNumber('7')">7</button>
             <button class="btn" onclick="inputNumber('8')">8</button>
@@ -173,7 +173,7 @@ function generateButtons() {
         `;
     } else {
         container.innerHTML = `
-            <button class="btn clear" onclick="clear(event)">Clear</button>
+            <button class="btn clear" onclick="clearAll(event)">Clear</button>
             <button class="btn operator" onclick="performOperation('÷')">÷</button>
             <button class="btn operator" onclick="performOperation('×')">×</button>
             
