@@ -16,4 +16,5 @@ Just open the GitHub link in your browser. No installation required.
 _Add screenshots here if you like_
 
 ## Author
-Koko Jamgotchian - [@kokoc30]([https://github.com/kokoc30])
+Koko Jamgotchian - [@kokoc30](https://github.com/kokoc30)
+
